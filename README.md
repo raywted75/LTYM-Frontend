@@ -1,2 +1,5 @@
 # LTYM-Frontend
-CMU 12-780 Project
+
+1. Put backend address in `./src/routes/+page.svelte`
+2. Run `npm install`
+3. Run `npm run dev -- --open` and have fun!
